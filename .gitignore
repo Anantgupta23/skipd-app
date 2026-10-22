@@ -1,0 +1,18 @@
+# Environment and secrets
+.env
+.sarvam_key
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE & OS
+.DS_Store
+Thumbs.db
